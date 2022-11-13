@@ -1,3 +1,3 @@
 # github-course
 
-readme was edited manually. this flie was edited locally
+this line was modified manually during conflicts resolution
